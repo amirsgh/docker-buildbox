@@ -3,7 +3,7 @@ Versions
 
 2020-06-DEV
 -----------
-todo
+* Upgrade Java 8 to 8u252 and 11 to 11.0.7
 
 2020-05-28
 -----------
